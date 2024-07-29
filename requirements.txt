@@ -1,0 +1,4 @@
+Flask==3.0.1
+gunicorn==20.1.0  # Für den Produktionsbetrieb von Flask
+pandas==2.0.3     # Für Datenverarbeitung
+SQLAlchemy==2.0.19 # Für SQL-Datenbankverwaltung
